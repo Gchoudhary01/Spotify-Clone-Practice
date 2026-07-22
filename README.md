@@ -1,1 +1,1 @@
-"# Spotify-Clone-Practice" 
+Spotify Clone Practice
